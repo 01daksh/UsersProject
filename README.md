@@ -1,0 +1,4 @@
+# UsersProject
+Only for the practice!
+
+Install Django and run python manage.py runserver "http://127.0.0.1:8000/" to run the project.
